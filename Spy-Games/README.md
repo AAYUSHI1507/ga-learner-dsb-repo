@@ -1,0 +1,2 @@
+It was overall good but in this project we are often using filter function we havent used other function like mapping we need a practice of other functions too so kindly see in to this better.
+Thankyou.
