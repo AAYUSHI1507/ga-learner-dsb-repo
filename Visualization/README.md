@@ -1,0 +1,1 @@
+This project is about to visualize the company data for stakeholders so it can be easier and more feasible to understand as this is the human nature that human prefers picture than text . In this project we have try to visualize the data like loan status , about the expensive education and I have also try to visualize the comparison of Income vs Loan by using scatter plot.
